@@ -121,7 +121,7 @@ public class Game {
             System.out.println("Already Set As Tag");
         }
     }
-    // something
+    // something something
 
     public void DisplayGameInfo(){
         System.out.println("Game title: " + gameTitle);
