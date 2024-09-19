@@ -134,3 +134,5 @@ public class Game {
     }
 
 }
+
+//get clipped gng github purposes
