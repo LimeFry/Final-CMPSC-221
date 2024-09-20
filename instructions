@@ -1,0 +1,7 @@
+yo boys im just gonna thrown in some commands here
+
+when you first open your project, do these in your terminal
+git remote -v 
+// here you will get your remote address
+git pull *the remote address you copied after you inputed the first command"
+// now you can do whatever (you just got the latest in code)
